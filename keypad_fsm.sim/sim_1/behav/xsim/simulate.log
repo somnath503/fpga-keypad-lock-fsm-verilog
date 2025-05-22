@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Simulation started...
+❌ Password Incorrect: LOCKED!
+$finish called at time : 130 ns : File "/home/somnath/Public/project_practice/keypad_fsm/keypad_fsm.srcs/sim_1/new/testbench_fsm.v" Line 52
